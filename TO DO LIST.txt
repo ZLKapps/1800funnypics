@@ -1,0 +1,11 @@
+02/16/16
+Done: 	Basic webview
+		Working buttons
+		App Icon
+		Misc Bug Fixing
+
+To Do:	ZLK Button click on MainActivity.java
+		Share click on PictureActivity.java
+		Download click on PictureActivity.java
+		Fullscreen Webview
+		Implementation of app theme song (https://play.spotify.com/artist/24T3a9xdEojE8naEEKMjkq)
